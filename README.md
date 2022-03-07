@@ -20,4 +20,4 @@ Arena W-L-D counter:
 Bloodmoon Curse indicator:
 ![alt text](https://github.com/LeslieAyacocho/Axie-Energy-Counter/blob/main/Screenshots/Capture3.PNG)
 
-This is fan made project and NOT affiliated with Axie Infinity
+This is a fan made project and NOT affiliated with Axie Infinity
